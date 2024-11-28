@@ -73,7 +73,7 @@ After completing the basics, simulate interviews by solving random problems from
 
 <hr>
 
-readme_content = """
+
 # LeetCode Practice Path
 
 This document provides a comprehensive roadmap to solve **300+ LeetCode questions**, categorized by topic and difficulty.
@@ -261,6 +261,5 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 ---
 
 **Happy Coding!**
-"""
 
 
