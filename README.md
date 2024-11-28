@@ -73,10 +73,7 @@ After completing the basics, simulate interviews by solving random problems from
 
 <hr>
 
-# Let's create a README.md file containing all the LeetCode questions categorized by topic.
 
-# Define the README content
-readme_content = """
 # LeetCode Practice Path
 
 This document provides a comprehensive roadmap to solve **300+ LeetCode questions**, categorized by topic and difficulty.
