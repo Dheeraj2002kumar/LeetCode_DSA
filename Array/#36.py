@@ -1,3 +1,5 @@
+# Search Insert Position (LeetCode #35)
+
 class Solution:
     def searchInsert(self, nums, target):
         # Initialize pointers for binary search
