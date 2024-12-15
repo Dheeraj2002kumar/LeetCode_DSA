@@ -83,7 +83,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 1. Two Sum (1) <a href="#">Link</a>
 2. Maximum Subarray (53) <a href="#">Link</a>
 3. Best Time to Buy and Sell Stock (121) <a href="#">Link</a>
-4. Merge Sorted Array (88)
+4. Merge Sorted Array (88)  <a href="#">Link</a>
 5. Single Number (136)
 6. Remove Duplicates from Sorted Array (26)
 7. Search Insert Position (35)
