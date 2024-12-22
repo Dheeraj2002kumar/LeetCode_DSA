@@ -85,7 +85,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 3. Best Time to Buy and Sell Stock (121) <a href="#">Link</a>
 4. Merge Sorted Array (88)    <a href="#">Link</a>
 5. Single Number (136)         <a href="#">Link</a>
-6. Remove Duplicates from Sorted Array (26)
+6. Remove Duplicates from Sorted Array (26)       <a href="#">Link</a>
 7. Search Insert Position (35)
 8. Contains Duplicate (217)
 9. Majority Element (169)
