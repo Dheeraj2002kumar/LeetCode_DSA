@@ -88,7 +88,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 6. Remove Duplicates from Sorted Array (26)       <a href="#">Link</a>
 7. Search Insert Position (35)              <a href="#">Link</a>
 8. Contains Duplicate (217)              <a href="#">Link</a>
-9. Majority Element (169)
+9. Majority Element (169)                <a href="#">Link</a>
 10. Pascal's Triangle (118)
 11. Plus One (66)
 12. Best Time to Buy and Sell Stock II (122)
