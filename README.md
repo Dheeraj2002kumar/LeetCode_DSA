@@ -98,7 +98,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 ### Medium
 15. Subarray Sum Equals K (560)       <a href="#">Link</a>
 16. Product of Array Except Self (238)       <a href="#">Link</a>
-17. 3Sum (15)
+17. 3Sum (15)<a href="#">Link</a>
 18. Container With Most Water (11)
 19. Merge Intervals (56)
 20. Set Matrix Zeroes (73)
