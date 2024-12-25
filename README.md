@@ -92,7 +92,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 10. Pascal's Triangle (118)           <a href="#">Link</a>
 11. Plus One (66)                <a href="#">Link</a>
 12. Best Time to Buy and Sell Stock II (122)          <a href="#">Link</a>
-13. Remove Element (27)
+13. Remove Element (27)<a href="#">Link</a>
 14. Rotate Array (189)
 
 ### Medium
