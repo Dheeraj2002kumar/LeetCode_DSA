@@ -93,7 +93,7 @@ This document provides a comprehensive roadmap to solve **300+ LeetCode question
 11. Plus One (66)                <a href="#">Link</a>
 12. Best Time to Buy and Sell Stock II (122)          <a href="#">Link</a>
 13. Remove Element (27)            <a href="#">Link</a>
-14. Rotate Array (189)        <a href="#">Link</a>
+14. Rotate Array (189)             <a href="#">Link</a>
 
 ### Medium
 15. Subarray Sum Equals K (560)
